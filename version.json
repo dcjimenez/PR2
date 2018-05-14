@@ -1,0 +1,7 @@
+{
+	"groupId": "com.tests",
+	"artifactId": "PR2",
+	"version": "1.0.0-SNAPSHOT",
+	"packaging": "exe",
+	"file": "result/PR2.exe"
+}
